@@ -10,7 +10,7 @@
 ### Afternoon
 * Seaborn
 * Bokeh
-# Day 3 : Visualization with other tools
+# Day 3 : Visualization with Other Tools
 ### Morning 
 * Gapminder
 * Tableau 
