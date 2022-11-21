@@ -13,5 +13,12 @@ L'image ci-dessous montre toutes les sources de données disponibles via les con
 ![data-connection-with-data-sources](https://user-images.githubusercontent.com/73080397/203032265-e8ef04c8-9841-471a-996a-78ec92c1eec2.png)
 
 
-Pour le cas de tableau public, toutes ces options de connexion aux données ne sont pas disponibles, nous allons donc nous connecter aux données que nous allons télécharger : 
+Pour le cas de tableau public, toutes ces options de connexion aux données ne sont pas disponibles:
+![tableau_public](https://user-images.githubusercontent.com/73080397/203034907-a4865d32-27ca-47ce-874d-af531bd679a3.PNG)
 
+
+Nous allons donc nous connecter aux données que nous allons télécharger : 
+
+
+#### Bonus : Différence entre  les produits Tbleau et logigramme pour choisir le produit adéquat
+https://www.edureka.co/blog/tableau-desktop-vs-tableau-public-vs-tableau-reader/#:~:text=Tableau%20Desktop%20is%20meant%20for,%2C%20bloggers%2C%20students%20and%20more. 
