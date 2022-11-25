@@ -6,13 +6,13 @@
 # Day 2 : Visualization with Python Libraries
 ### Morning 
 * Matplotlib 
-* Plotly 
+* [Plotly](https://github.com/doudi0101/DataViz/tree/main/Plotly) 
 ### Afternoon
-* Seaborn
-* Bokeh
+* [Seaborn](https://github.com/doudi0101/DataViz/tree/main/Seaborn)
+* [Bokeh](https://github.com/doudi0101/DataViz/tree/main/Bokeh)
 # Day 3 : Visualization with Other Tools
 ### Morning 
-* Gapminder
-* Tableau 
+* [Gapminder](https://github.com/doudi0101/DataViz/tree/main/Gapminder)
+* [Tableau](https://github.com/doudi0101/DataViz/tree/main/Tableau) 
 ### Afternoon
-* d3.js 
+* [d3.js](https://github.com/doudi0101/DataViz/tree/main/D3.js) 
