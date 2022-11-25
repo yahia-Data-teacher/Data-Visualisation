@@ -18,7 +18,14 @@ Pour le cas de tableau public, toutes ces options de connexion aux données ne s
 
 
 Nous allons donc nous connecter aux données que nous allons télécharger : 
+* Télecherger les données à partir de [ce lien](https://public.tableau.com/app/sample-data/sample_-_superstore.xls)
+* Dans le volet de connexion, cliquer sur Microsoft Excel, et ouvrez le fichier téléchatgé sample_-_superstore.xls
+* Trois tableaux s'affichent : Orders, People, et Returns :
+![image](https://user-images.githubusercontent.com/73080397/203958839-778e664c-ca8a-4738-9b3d-98f96c9ecd5a.png)
+* Faire glisser les trois tableaux, remarquer que les liaisons sont faites automatiquement :
+![image](https://user-images.githubusercontent.com/73080397/203960203-b20460d7-c0b9-4f98-849f-aa913bab576b.png)
 
+*Question : Par quelles clés les liaisons sont-elles faites entre les tableaux ? * 
 
 #### Bonus : Différence entre  les produits Tbleau et logigramme pour choisir le produit adéquat
 https://www.edureka.co/blog/tableau-desktop-vs-tableau-public-vs-tableau-reader/#:~:text=Tableau%20Desktop%20is%20meant%20for,%2C%20bloggers%2C%20students%20and%20more. 
