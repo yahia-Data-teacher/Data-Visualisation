@@ -1,4 +1,5 @@
 ## Qu’est-ce que GapMinder ?
+![image](https://user-images.githubusercontent.com/73080397/204101506-3e8b2795-aee9-4109-b632-4c646b137cc4.png)
 Gapminder est une fondation suédoise indépendante, sans affiliation politique, religieuse ou économique.
 Le but de Gapminder est de combattre l'ignorance dévastatrice par une vision du monde basée sur des faits compréhensible par tous.
 Gapminder identifie les idées fausses systématiques sur les tendances et les proportions mondiales importantes et utilise des données fiables pour développer du matériel pédagogique facile à comprendre afin de débarrasser les gens de leurs idées fausses.
@@ -16,6 +17,8 @@ GapMinder présente une grande interactivité du graphisme, ainsi qu’une soupl
 * Rue du dollar
 
 ## Question : Combien de dimentions représentées dans le graphique à bulles "Espérance de vie en fonction du Revenus"
+![image](https://user-images.githubusercontent.com/73080397/204101463-42976a6f-e02a-41d7-a7f7-7c5ef7eacb2e.png)
+
 Cette Illustration montre la relation entre PIB et espérance de vie.
 On remarque que plus la population est élevée comme en Inde ou en Chine, plus la moyenne de vie l’est aussi, tout en ayant un niveau de vie moyen, voire pauvre.
 
