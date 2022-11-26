@@ -1,4 +1,4 @@
-# 1. Se connecter aux données 
+# 2. Se connecter aux données 
 Tableau peut se connecter à toutes les sources de données accessibles qui sont largement utilisées. Il peut se connecter à des fichiers Excel, des fichiers PDF, des fichiers texte, etc. Il peut également se connecter à diverses bases de données en utilisant son connecteur ODBC. Tableau peut se connecter à des connecteurs web et à des serveurs.
 
 Les connecteurs natifs de Tableau peuvent se connecter aux types de sources de données suivants :
