@@ -1,9 +1,3 @@
-
-https://www.gapminder.org/tools/
-
-
-
-
 ## Qu’est-ce que GapMinder ?
 Gapminder est une fondation suédoise indépendante, sans affiliation politique, religieuse ou économique.
 Le but de Gapminder est de combattre l'ignorance dévastatrice par une vision du monde basée sur des faits compréhensible par tous.
@@ -12,7 +6,7 @@ But de GapMinder
 GapMinder présente une grande interactivité du graphisme, ainsi qu’une souplesse en manipulation : l’outil permet de présenter des indicateurs sous plusieurs formes. L’interactivité aide à repérer des tendances, des situations originales, et à vérifier des hypothèses par sélection.
 
 ## GapMinder Tools
-Types de graphiques :
+[Gapminder tools](https://www.gapminder.org/tools/) dispose d'une multitude de types de graphiques :
 * Bulles
 * Revenu 
 * Cartes
@@ -63,7 +57,7 @@ Réponse :
 1. Choisir le type de graphe « Carte »
 2-	Pour la couleur, chercher « Strenght of Legal rights »
 
-Question : En 1980, environ 40 % de la population mondiale vivait dans une extrême pauvreté, avec moins de 2 dollars par jour. Quelle est cette proportion aujourd'hui ?
+## Question : En 1980, environ 40 % de la population mondiale vivait dans une extrême pauvreté, avec moins de 2 dollars par jour. Quelle est cette proportion aujourd'hui ?
 
 Réponse : 10%
 Graphe des Pays ayant sorti de la pauvreté
