@@ -15,7 +15,7 @@ GapMinder présente une grande interactivité du graphisme, ainsi qu’une soupl
 * Ages
 * Rue du dollar
 
-## Graphique à bulles : Espérance de vie en fonction du Revenus 
+## Question : Combien de dimentions représentées dans le graphique à bulles "Espérance de vie en fonction du Revenus"
 Cette Illustration montre la relation entre PIB et espérance de vie.
 On remarque que plus la population est élevée comme en Inde ou en Chine, plus la moyenne de vie l’est aussi, tout en ayant un niveau de vie moyen, voire pauvre.
 
@@ -55,7 +55,7 @@ Dans ce graphique, vous pouvez également voir la proportion de personnes vivant
 ## Question : Comment représenter la force des droits légaux par carte thermique ?
 Réponse :
 1. Choisir le type de graphe « Carte »
-2-	Pour la couleur, chercher « Strenght of Legal rights »
+2. Pour la couleur, chercher « Strenght of Legal rights »
 
 ## Question : En 1980, environ 40 % de la population mondiale vivait dans une extrême pauvreté, avec moins de 2 dollars par jour. Quelle est cette proportion aujourd'hui ?
 
