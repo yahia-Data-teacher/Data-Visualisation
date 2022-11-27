@@ -1,4 +1,4 @@
-# Explorer vos données géographiquement
+# 4. Explorer vos données géographiquement
 
 Vous avez créé une vue efficace qui vous permet d'analyser les ventes et les profits par produit sur plusieurs années. Et après avoir examiné les ventes de produits dans la région South, vous décidez d'étudier les tendances et les caractéristiques dans cette région.
 
