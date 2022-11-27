@@ -20,6 +20,7 @@ Tableau conserve votre précédente feuille de calcul et en crée une nouvelle a
 Vous avez maintenant une carte !
 
 ![Explore3](https://user-images.githubusercontent.com/73080397/204165427-8d1ff91d-0add-4850-8ce2-880fc9e3170e.gif)
+
 Étant donné que Tableau sait déjà que les noms d'État sont des données géographiques, et parce que le rôle géographique État/province est attribué à la dimension État, Tableau crée automatiquement une carte.
 
 Il existe un repère pour chacun des 48 États continus dans votre source de données. (L'Alaska et Hawaï ne sont malheureusement pas inclus dans votre source de données, donc ils sont laissés de côté.)
