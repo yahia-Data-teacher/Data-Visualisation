@@ -25,7 +25,7 @@ Nous allons donc nous connecter aux données que nous allons télécharger :
 * Faire glisser les trois tableaux, remarquer que les liaisons sont faites automatiquement :
 ![image](https://user-images.githubusercontent.com/73080397/203960203-b20460d7-c0b9-4f98-849f-aa913bab576b.png)
 
-*Question : Par quelles clés les liaisons sont-elles faites entre les tableaux ? * 
+*Question : Par quelles clés les liaisons sont-elles faites entre les tableaux ?* 
 
 #### Bonus : Différence entre  les produits Tbleau et logigramme pour choisir le produit adéquat
 https://www.edureka.co/blog/tableau-desktop-vs-tableau-public-vs-tableau-reader/#:~:text=Tableau%20Desktop%20is%20meant%20for,%2C%20bloggers%2C%20students%20and%20more. 
