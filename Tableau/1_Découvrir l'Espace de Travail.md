@@ -1,4 +1,4 @@
-# 2. Découvrir l'espace de travail et créer une première vue
+# 2. Découvrir l'espace de travail 
 
 Votre responsable vous a chargé d'analyser les ventes générales et la profitabilité de l'entreprise et d'identifier les principaux domaines à améliorer. Vous vous retrouvez avec une masse de données, sans savoir par où commencer. 
 
