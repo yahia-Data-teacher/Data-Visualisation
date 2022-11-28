@@ -87,9 +87,9 @@ Vous avez bien progressé, mais il reste beaucoup de données à classer visuell
 ## Résumé de l'étape
 Dans cette étape, votre but était de vous familiariser avec vos données et de les interroger pour les faire parler. Vous avez appris comment :
 
-Créer un graphique dans une vue opérationnelle.
+* Créer un graphique dans une vue opérationnelle.
 
-Ajouter des champs pour obtenir le niveau de détail adapté dans votre vue.
+* Ajouter des champs pour obtenir le niveau de détail adapté dans votre vue.
 
 Vous êtes maintenant prêt à vous concentrer sur vos résultats pour identifier des domaines de préoccupation plus spécifiques. Dans la section suivante, vous allez apprendre à utiliser les filtres et les couleurs pour explorer visuellement vos données.
 
