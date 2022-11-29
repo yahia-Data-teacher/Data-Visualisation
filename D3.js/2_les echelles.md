@@ -13,3 +13,5 @@
 * Dans **scaleLog()**:
     * Quand utiliser cette échelle ?
     * Comment sont distribuées les valeurs de 1 à 5 millions sur l'axe des abscisses ?
+* Color Scales :
+    * [savoir plus](https://observablehq.com/@d3/color-schemes)
