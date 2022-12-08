@@ -15,4 +15,4 @@
 * [Gapminder](https://github.com/doudi0101/DataViz/tree/main/Gapminder)
 * [Tableau](https://github.com/doudi0101/DataViz/tree/main/Tableau) 
 ### Afternoon
-* [d3.js](https://github.com/doudi0101/DataViz/tree/main/D3.js) 
+* [d3.js](https://github.com/doudi0101/DataViz/tree/main/D3.js)
