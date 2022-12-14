@@ -1,0 +1,11 @@
+- quelles sont les bibliothèques utilisées ?
+- quelle est l'utilité de chacune ?
+- comment les données sont-elles importées ?
+- quelles sont les colonnes ?
+- dans la cellule 3, des données inutiles ont été supprimées, lequelles ?
+- dans la cellule 4, la variable "country" définit le pays concerné par le tracé linéaire, comment changer cette valeur ?
+- dans la cellule 5 quelle propriété permet d'aggrandir la taille du graphique ?
+- dans la cellule 6, quel élément permet de tracer les 5 pays sur le même graphe ? 
+- dans la cellule 7, quels arguments utilisés pour définir les propriétés des graphiques à barres ?
+- dans la cellule 8, qu'est ce qui permet de se limiter aux 10 premiers ?
+- quels sont les limites des graphiques de matplotlib ?
